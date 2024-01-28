@@ -1,15 +1,15 @@
-﻿# Bem-vindo ao Meu Playground Digital! 👋
+<h1 align="center">Bem-vindo ao Meu Playground Digital! 👋</h1>
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=olá!+👋;+me+chamo+Jhonatan!;" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&lines=olá!+👋;+Eu+Sou+o+Jhonatan!;" />
 </h1>
 
-Olá, sou Jhonatan Gonçalves Pereira, um entusiasta apaixonado por tecnologia e desenvolvimento de software. Atualmente, estou embarcando em uma jornada de aprendizado contínuo, explorando diversas áreas do mundo da programação.
+O Jhonatan Gonçalves Pereira, um entusiasta apaixonado por tecnologia e desenvolvimento de software. Atualmente, estou embarcando em uma jornada de aprendizado contínuo, explorando diversas áreas do mundo da programação.
 <div  align="center" >
-  - 🌱 Estou aprendendo constantemente e compartilhando meu progresso.
-  - 💻 Meu foco inclui desenvolvimento web, algoritmos e tecnologias emergentes.
-  - 🤝 Estou aberto a colaborações e sempre buscando novas oportunidades de aprendizado.
-  - 🔭 Atualmente estou trabalhando como freelancer ...
-  - 🌱 Aprofundando os conhecimentos em react, typescript, Tailwind css ...
+  - 🌱 Estou aprendendo constantemente e compartilhando meu progresso. <br>
+  - 💻 Meu foco inclui desenvolvimento web, algoritmos e tecnologias emergentes. <br>
+  - 🤝 Estou aberto a colaborações e sempre buscando novas oportunidades de aprendizado. <br>
+  - 🔭 Atualmente estou trabalhando como freelancer ... <br>
+  - 🌱 Aprofundando os conhecimentos em react, typescript, Tailwind css ... <br>
 </div>
 
 <h2 align="center" >⚒️ Linguagens-Frameworks-Ferramentas ⚒️</h2>
@@ -18,7 +18,7 @@ Olá, sou Jhonatan Gonçalves Pereira, um entusiasta apaixonado por tecnologia e
   <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git,typescript" />
 </div>
 
-## + Sobre Jhonatan Gonçalves Pereira
+<h2 align="center" > + Sobre Jhonatan Gonçalves Pereira </h2>
 <div  align="center" >
 <a href = "mailto:contato@jhonatanpereira.developer@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/john_n_tahn" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -33,12 +33,12 @@ Olá, sou Jhonatan Gonçalves Pereira, um entusiasta apaixonado por tecnologia e
 </a>
 </div>
 
-## Como Contribuir
+<h2 align="center"> Como Contribuir </h2>
 
 - 🐛 Encontrou algum bug ou quer sugerir uma melhoria? Abra uma issue.
 - 🤔 Quer contribuir para um projeto específico? Faça um fork e envie uma solicitação de pull.
 
-## Contato
+<h2 align="center" > Contato</h2>
 
 - 📧 **Email:** jhonatanpereira.developer@gmail.com
 - 🔗 **LinkedIn:** [Jhonatan Gonçalves Pereira](https://www.linkedin.com/in/jhonatan-goncalves-pereira/)
