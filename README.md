@@ -18,7 +18,7 @@ O Jhonatan Gonçalves Pereira, um entusiasta apaixonado por tecnologia e desenvo
   <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git,typescript" />
 </div>
 
-<h2 align="center" > + Sobre Jhonatan Gonçalves Pereira </h2>
+<h2 align="center" > 👨‍💻 + Sobre Jhonatan Gonçalves Pereira </h2>
 <div  align="center" >
 <a href = "mailto:contato@jhonatanpereira.developer@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/john_n_tahn" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -33,12 +33,12 @@ O Jhonatan Gonçalves Pereira, um entusiasta apaixonado por tecnologia e desenvo
 </a>
 </div>
 
-<h2 align="center"> Como Contribuir </h2>
+<h2 align="center"> 📝 Como Contribuir </h2>
 
 - 🐛 Encontrou algum bug ou quer sugerir uma melhoria? Abra uma issue.
 - 🤔 Quer contribuir para um projeto específico? Faça um fork e envie uma solicitação de pull.
 
-<h2 align="center" > Contato</h2>
+<h2 align="center" > 🔌 Contato</h2>
 
 - 📧 **Email:** jhonatanpereira.developer@gmail.com
 - 🔗 **LinkedIn:** [Jhonatan Gonçalves Pereira](https://www.linkedin.com/in/jhonatan-goncalves-pereira/)
