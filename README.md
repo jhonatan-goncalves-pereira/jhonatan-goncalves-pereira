@@ -42,7 +42,7 @@ O Jhonatan Gonçalves Pereira, um entusiasta apaixonado por tecnologia e desenvo
 
 - 📧 **Email:** jhonatanpereira.developer@gmail.com
 - 🔗 **LinkedIn:** [Jhonatan Gonçalves Pereira](https://www.linkedin.com/in/jhonatan-goncalves-pereira/)
-- 🌐 **Portfolio:** [Meu Portfolio](https://portifolio-46u3u5ckj-jhonatan-goncalves-pereiras-projects.vercel.app)
+- 🌐 **Portfolio:** [Meu Portfolio](https://portifolio-46u3u5ckj-jhonatan-goncalves-pereiras-projects.vercel.app](https://portifolio-omega-teal.vercel.app/)
 
 Sinta-se à vontade para explorar, clonar repositórios e entrar em contato. Vamos codificar juntos!
 
