@@ -40,7 +40,6 @@ O Jhonatan Gonçalves Pereira, um entusiasta apaixonado por tecnologia e desenvo
 
 <h2 align="center" > 🔌 Contato</h2>
 
-- 📧 **Email:** jhonatanpereira.developer@gmail.com
 - 🔗 **LinkedIn:** [Jhonatan Gonçalves Pereira](https://www.linkedin.com/in/jhonatan-goncalves-pereira/)
 - 🌐 **Portfolio:** [Meu Portfolio](https://portifolio-omega-teal.vercel.app/)
 
@@ -49,4 +48,8 @@ Sinta-se à vontade para explorar, clonar repositórios e entrar em contato. Vam
 Happy coding! 🚀
 
 
-![Snake animation](https://github.com/jhonatan-goncalves-pereira/jhonatan-goncalves-pereira/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jhonatan-goncalves-pereira/jhonatan-goncalves-pereira/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jhonatan-goncalves-pereira/jhonatan-goncalves-pereira/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jhonatan-goncalves-pereira/jhonatan-goncalves-pereira/output/github-contribution-grid-snake.svg">
+</picture>
