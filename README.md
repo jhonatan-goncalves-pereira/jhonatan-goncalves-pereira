@@ -15,7 +15,7 @@ O Jhonatan Gonçalves Pereira, um entusiasta apaixonado por tecnologia e desenvo
 <h2 align="center" >⚒️ Linguagens-Frameworks-Ferramentas ⚒️</h2>
 <br>
 <div align="center" >
-  <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git,typescript" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,typescript,react,vscode,git,github,tailwind,figma,mysql,aws" />
 </div>
 
 <h2 align="center" > 👨‍💻 + Sobre Jhonatan Gonçalves Pereira </h2>
