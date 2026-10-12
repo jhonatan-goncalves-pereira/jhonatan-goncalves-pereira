@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 590 286" width="590" height="286" role="img" aria-label="Portfólio 3D — Frontend · WebGL. Site pessoal com 15 mil partículas em WebGL puro, sem biblioteca 3D, que se transformam conforme o scroll. Next.js estático, bilíngue e acessível. Stack: Next.js, TypeScript, WebGL, GLSL, Motion.">
+<title>Portfólio 3D — Frontend · WebGL. Site pessoal com 15 mil partículas em WebGL puro, sem biblioteca 3D, que se transformam conforme o scroll. Next.js estático, bilíngue e acessível. Stack: Next.js, TypeScript, WebGL, GLSL, Motion.</title>
+  <defs>
+    <linearGradient id="p-curriculo-light-brand" x1="0" y1="0" x2="1" y2="0"><stop offset="0.00" stop-color="#0a8f6d"/><stop offset="0.33" stop-color="#0e9c8a"/><stop offset="0.67" stop-color="#4a63d9"/><stop offset="1.00" stop-color="#5b4bdb"/></linearGradient>
+    <radialGradient id="p-curriculo-light-mint" cx="0.82" cy="0.1" r="0.7"><stop offset="0" stop-color="rgba(10,143,109,0.10)"/><stop offset="1" stop-color="rgba(10,143,109,0.10)" stop-opacity="0"/></radialGradient>
+    <radialGradient id="p-curriculo-light-violet" cx="0.08" cy="0.95" r="0.7"><stop offset="0" stop-color="rgba(91,75,219,0.10)"/><stop offset="1" stop-color="rgba(91,75,219,0.10)" stop-opacity="0"/></radialGradient>
+    <pattern id="p-curriculo-light-grid" width="48" height="48" patternUnits="userSpaceOnUse"><path d="M48 0H0V48" fill="none" stroke="rgba(9,12,17,0.045)" stroke-width="1"/></pattern>
+    <clipPath id="p-curriculo-light-clip"><rect width="100%" height="100%" rx="20"/></clipPath>
+  </defs>
+  
+  <g clip-path="url(#p-curriculo-light-clip)">
+    <rect width="590" height="286" fill="#ffffff"/>
+    
+    <rect width="590" height="286" fill="url(#p-curriculo-light-mint)"/>
+    <rect width="590" height="286" fill="url(#p-curriculo-light-violet)"/>
+  </g>
+  <rect x="0.5" y="0.5" width="589" height="285" rx="19.5" fill="none" stroke="#d8dee4"/>
+  <text x="34" y="50" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" letter-spacing="2.4" fill="#0a8f6d">FRONTEND · WEBGL</text>
+  <text x="33" y="94" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="30" font-weight="700" letter-spacing="-0.9" fill="#0b0d12">Portfólio 3D</text>
+  <text x="34" y="134" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="16" fill="#424a57">Site pessoal com 15 mil partículas em WebGL puro, sem</text><text x="34" y="159" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="16" fill="#424a57">biblioteca 3D, que se transformam conforme o scroll.</text><text x="34" y="184" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="16" fill="#424a57">Next.js estático, bilíngue e acessível.</text>
+  <rect x="34" y="220" width="74.5" height="27" rx="13.5" fill="#ffffff" stroke="#d0d7de"/><text x="45" y="238" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" fill="#424a57" textLength="52.5" lengthAdjust="spacingAndGlyphs">Next.js</text><rect x="115.5" y="220" width="97" height="27" rx="13.5" fill="#ffffff" stroke="#d0d7de"/><text x="126.5" y="238" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" fill="#424a57" textLength="75" lengthAdjust="spacingAndGlyphs">TypeScript</text><rect x="219.5" y="220" width="59.5" height="27" rx="13.5" fill="#ffffff" stroke="#d0d7de"/><text x="230.5" y="238" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" fill="#424a57" textLength="37.5" lengthAdjust="spacingAndGlyphs">WebGL</text><rect x="286" y="220" width="52" height="27" rx="13.5" fill="#ffffff" stroke="#d0d7de"/><text x="297" y="238" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" fill="#424a57" textLength="30" lengthAdjust="spacingAndGlyphs">GLSL</text><rect x="345" y="220" width="67" height="27" rx="13.5" fill="#ffffff" stroke="#d0d7de"/><text x="356" y="238" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" fill="#424a57" textLength="45" lengthAdjust="spacingAndGlyphs">Motion</text>
+  <g transform="translate(524 30)">
+    <circle cx="16" cy="16" r="16" fill="#ffffff" stroke="#d0d7de"/>
+    <path d="M11.5 20.5 20.5 11.5M13 11.5h7.5V19" fill="none" stroke="#0b0d12" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>

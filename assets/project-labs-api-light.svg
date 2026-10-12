@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 590 286" width="590" height="286" role="img" aria-label="API de Laboratórios — Backend · API REST. API em Node.js e Express com autenticação JWT, upload de imagens, relatório em PDF e testes com Jest e Supertest. Stack: Node.js, Express, MongoDB, JWT, Jest.">
+<title>API de Laboratórios — Backend · API REST. API em Node.js e Express com autenticação JWT, upload de imagens, relatório em PDF e testes com Jest e Supertest. Stack: Node.js, Express, MongoDB, JWT, Jest.</title>
+  <defs>
+    <linearGradient id="p-labs-api-light-brand" x1="0" y1="0" x2="1" y2="0"><stop offset="0.00" stop-color="#0a8f6d"/><stop offset="0.33" stop-color="#0e9c8a"/><stop offset="0.67" stop-color="#4a63d9"/><stop offset="1.00" stop-color="#5b4bdb"/></linearGradient>
+    <radialGradient id="p-labs-api-light-mint" cx="0.82" cy="0.1" r="0.7"><stop offset="0" stop-color="rgba(10,143,109,0.10)"/><stop offset="1" stop-color="rgba(10,143,109,0.10)" stop-opacity="0"/></radialGradient>
+    <radialGradient id="p-labs-api-light-violet" cx="0.08" cy="0.95" r="0.7"><stop offset="0" stop-color="rgba(91,75,219,0.10)"/><stop offset="1" stop-color="rgba(91,75,219,0.10)" stop-opacity="0"/></radialGradient>
+    <pattern id="p-labs-api-light-grid" width="48" height="48" patternUnits="userSpaceOnUse"><path d="M48 0H0V48" fill="none" stroke="rgba(9,12,17,0.045)" stroke-width="1"/></pattern>
+    <clipPath id="p-labs-api-light-clip"><rect width="100%" height="100%" rx="20"/></clipPath>
+  </defs>
+  
+  <g clip-path="url(#p-labs-api-light-clip)">
+    <rect width="590" height="286" fill="#ffffff"/>
+    
+    <rect width="590" height="286" fill="url(#p-labs-api-light-mint)"/>
+    <rect width="590" height="286" fill="url(#p-labs-api-light-violet)"/>
+  </g>
+  <rect x="0.5" y="0.5" width="589" height="285" rx="19.5" fill="none" stroke="#d8dee4"/>
+  <text x="34" y="50" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" letter-spacing="2.4" fill="#0a8f6d">BACKEND · API REST</text>
+  <text x="33" y="94" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="30" font-weight="700" letter-spacing="-0.9" fill="#0b0d12">API de Laboratórios</text>
+  <text x="34" y="134" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="16" fill="#424a57">API em Node.js e Express com autenticação JWT,</text><text x="34" y="159" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="16" fill="#424a57">upload de imagens, relatório em PDF e testes</text><text x="34" y="184" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="16" fill="#424a57">com Jest e Supertest.</text>
+  <rect x="34" y="220" width="74.5" height="27" rx="13.5" fill="#ffffff" stroke="#d0d7de"/><text x="45" y="238" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" fill="#424a57" textLength="52.5" lengthAdjust="spacingAndGlyphs">Node.js</text><rect x="115.5" y="220" width="74.5" height="27" rx="13.5" fill="#ffffff" stroke="#d0d7de"/><text x="126.5" y="238" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" fill="#424a57" textLength="52.5" lengthAdjust="spacingAndGlyphs">Express</text><rect x="197" y="220" width="74.5" height="27" rx="13.5" fill="#ffffff" stroke="#d0d7de"/><text x="208" y="238" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" fill="#424a57" textLength="52.5" lengthAdjust="spacingAndGlyphs">MongoDB</text><rect x="278.5" y="220" width="44.5" height="27" rx="13.5" fill="#ffffff" stroke="#d0d7de"/><text x="289.5" y="238" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" fill="#424a57" textLength="22.5" lengthAdjust="spacingAndGlyphs">JWT</text><rect x="330" y="220" width="52" height="27" rx="13.5" fill="#ffffff" stroke="#d0d7de"/><text x="341" y="238" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" fill="#424a57" textLength="30" lengthAdjust="spacingAndGlyphs">Jest</text>
+  <g transform="translate(524 30)">
+    <circle cx="16" cy="16" r="16" fill="#ffffff" stroke="#d0d7de"/>
+    <path d="M11.5 20.5 20.5 11.5M13 11.5h7.5V19" fill="none" stroke="#0b0d12" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>

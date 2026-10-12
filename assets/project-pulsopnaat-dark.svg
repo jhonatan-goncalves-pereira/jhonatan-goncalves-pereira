@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 590 286" width="590" height="286" role="img" aria-label="PulsoPNAAT — Edge AI · IoT. Manutenção preditiva por vibração: ESP32-S3 lê o acelerômetro a 400 Hz, extrai 18 métricas por segundo e classifica o estado do equipamento. Stack: C, ESP32-S3, MQTT, Grafana, Python.">
+<title>PulsoPNAAT — Edge AI · IoT. Manutenção preditiva por vibração: ESP32-S3 lê o acelerômetro a 400 Hz, extrai 18 métricas por segundo e classifica o estado do equipamento. Stack: C, ESP32-S3, MQTT, Grafana, Python.</title>
+  <defs>
+    <linearGradient id="p-pulsopnaat-dark-brand" x1="0" y1="0" x2="1" y2="0"><stop offset="0.00" stop-color="#5ef2c2"/><stop offset="0.33" stop-color="#d9fff2"/><stop offset="0.67" stop-color="#b9b0ff"/><stop offset="1.00" stop-color="#8b7cff"/></linearGradient>
+    <radialGradient id="p-pulsopnaat-dark-mint" cx="0.82" cy="0.1" r="0.7"><stop offset="0" stop-color="rgba(94,242,194,0.16)"/><stop offset="1" stop-color="rgba(94,242,194,0.16)" stop-opacity="0"/></radialGradient>
+    <radialGradient id="p-pulsopnaat-dark-violet" cx="0.08" cy="0.95" r="0.7"><stop offset="0" stop-color="rgba(139,124,255,0.16)"/><stop offset="1" stop-color="rgba(139,124,255,0.16)" stop-opacity="0"/></radialGradient>
+    <pattern id="p-pulsopnaat-dark-grid" width="48" height="48" patternUnits="userSpaceOnUse"><path d="M48 0H0V48" fill="none" stroke="rgba(255,255,255,0.035)" stroke-width="1"/></pattern>
+    <clipPath id="p-pulsopnaat-dark-clip"><rect width="100%" height="100%" rx="20"/></clipPath>
+  </defs>
+  
+  <g clip-path="url(#p-pulsopnaat-dark-clip)">
+    <rect width="590" height="286" fill="#050608"/>
+    
+    <rect width="590" height="286" fill="url(#p-pulsopnaat-dark-mint)"/>
+    <rect width="590" height="286" fill="url(#p-pulsopnaat-dark-violet)"/>
+  </g>
+  <rect x="0.5" y="0.5" width="589" height="285" rx="19.5" fill="none" stroke="#1d212b"/>
+  <text x="34" y="50" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" letter-spacing="2.4" fill="#5ef2c2">EDGE AI · IOT</text>
+  <text x="33" y="94" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="30" font-weight="700" letter-spacing="-0.9" fill="#f2f4f8">PulsoPNAAT</text>
+  <text x="34" y="134" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="16" fill="#a6aec0">Manutenção preditiva por vibração: ESP32-S3 lê o</text><text x="34" y="159" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="16" fill="#a6aec0">acelerômetro a 400 Hz, extrai 18 métricas por segundo</text><text x="34" y="184" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="16" fill="#a6aec0">e classifica o estado do equipamento.</text>
+  <rect x="34" y="220" width="29.5" height="27" rx="13.5" fill="rgba(255,255,255,0.03)" stroke="rgba(255,255,255,0.11)"/><text x="45" y="238" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" fill="#a6aec0" textLength="7.5" lengthAdjust="spacingAndGlyphs">C</text><rect x="70.5" y="220" width="82" height="27" rx="13.5" fill="rgba(255,255,255,0.03)" stroke="rgba(255,255,255,0.11)"/><text x="81.5" y="238" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" fill="#a6aec0" textLength="60" lengthAdjust="spacingAndGlyphs">ESP32-S3</text><rect x="159.5" y="220" width="52" height="27" rx="13.5" fill="rgba(255,255,255,0.03)" stroke="rgba(255,255,255,0.11)"/><text x="170.5" y="238" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" fill="#a6aec0" textLength="30" lengthAdjust="spacingAndGlyphs">MQTT</text><rect x="218.5" y="220" width="74.5" height="27" rx="13.5" fill="rgba(255,255,255,0.03)" stroke="rgba(255,255,255,0.11)"/><text x="229.5" y="238" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" fill="#a6aec0" textLength="52.5" lengthAdjust="spacingAndGlyphs">Grafana</text><rect x="300" y="220" width="67" height="27" rx="13.5" fill="rgba(255,255,255,0.03)" stroke="rgba(255,255,255,0.11)"/><text x="311" y="238" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" fill="#a6aec0" textLength="45" lengthAdjust="spacingAndGlyphs">Python</text>
+  <g transform="translate(524 30)">
+    <circle cx="16" cy="16" r="16" fill="rgba(255,255,255,0.03)" stroke="rgba(255,255,255,0.11)"/>
+    <path d="M11.5 20.5 20.5 11.5M13 11.5h7.5V19" fill="none" stroke="#f2f4f8" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>
